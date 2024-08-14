@@ -47,7 +47,7 @@ with open('C:\python\stocksproject.csv') as csv_file:
 
  #---------------------------------------------------
 
- # geeting the timestamp for which we needed
+ # getting the timestamp for which we needed
  
     start_date = datetime.date(year=2022, month=5, day=1)
     end_date = datetime.date(year=2023, month=5, day=1)
